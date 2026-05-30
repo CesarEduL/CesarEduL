@@ -10,7 +10,7 @@ Soy un desarrollador de software con experiencia en aplicaciones móviles y desa
 - 🛠️ **Herramientas:** JavaNetbeans, Power BI, SQL Server, Android Studio, MySQL, Sublime Text.
 - 🌱 Actualmente aprendiendo más sobre **desarrollo avanzado de Android** y **arquitectura de software.**
 - 💬 Pregúntame sobre **Java, APIs de Google, Firebase, Power BI,** y desarrollo de aplicaciones móviles y web.
-- 📫 Puedes contactarme en [LinkedIn](https://www.linkedin.com/in/cesar-eduardo-lizama-camero-4ab50624b/).
+- 📫 Puedes contactarme en [LinkedIn](www.linkedin.com/in/cesar-camero).
 
 ---
 
