@@ -10,13 +10,13 @@ Soy un desarrollador de software con experiencia en aplicaciones móviles y desa
 - 🛠️ **Herramientas:** JavaNetbeans, Power BI, SQL Server, Android Studio, MySQL, Sublime Text.
 - 🌱 Actualmente aprendiendo más sobre **desarrollo avanzado de Android** y **arquitectura de software.**
 - 💬 Pregúntame sobre **Java, APIs de Google, Firebase, Power BI,** y desarrollo de aplicaciones móviles y web.
-- 📫 Puedes contactarme en [LinkedIn](www.linkedin.com/in/cesar-camero).
+- 📫 Puedes contactarme en [LinkedIn](https://www.linkedin.com/in/cesar-camero).
 
 ---
 
 ### Conéctate conmigo:
 <p align="left">
-    <a href="www.linkedin.com/in/cesar-camero" target="blank">
+    <a href="https://www.linkedin.com/in/cesar-camero" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
 </p>
